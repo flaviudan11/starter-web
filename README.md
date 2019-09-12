@@ -17,3 +17,5 @@ adding changes that will only be staged
 ## ADDITIONAL COMMENTS
 
 highway to hell
+
+### COPYRIGHT
