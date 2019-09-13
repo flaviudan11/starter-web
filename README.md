@@ -21,4 +21,4 @@ highway to hell
 
 ### COPYRIGHT
 
-please fork
+All rights reserved.
