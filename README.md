@@ -1,5 +1,7 @@
 # Starter Web Repo
-emergency
+
+Making changes for multiple stash example
+
 ## Purpose
 
 Sample website with plenty of files for demos
